@@ -8,3 +8,6 @@ I am trying markdown
 # This is a code block
 print("Hello world")
 ```
+- [x] Complete this course
+- [ ] Learn a programming language
+- [ ] Become a programmer
